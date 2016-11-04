@@ -52,6 +52,9 @@ Website ini dibuat berdasarkan materi yang diberikan pada minggu pertama persiap
 -	font-style
 -	float
 
+## Future Plans:
+Pada saat ini tampilan website saya sangat sederhana dan tampilannya kurang begitu menarik. Nantinya saya akan memperbaiki tampilan ini, menjadi lebih menarik dan tentunya membuat website menjadi responsive. Kedepannya, mungkin akan banyak halaman pada website dan untuk itu saya perlu memperhatikan struktur navigasi agar mudah mengatur keseluruhan halaman tersebut.
+
 ## About Me: 
 Nama saya Yoma Sofwan, bisa dipanggil “yoma”. Berasal dari Pontianak, Kalimantan Barat. Saya mengikuti bootcamp Hacktiv8 karena tertarik untuk mempelajari pemrograman khususnya javascript agar nantinya menjadi bisa dan mahir. Website ini adalah salah satu hasil terapan dari materi yang saya dapatkan pada minggu pertama persiapan bootcamp di Hacktiv8. Semoga saya dapat mengikuti dan memahami semua materi bootcamp yang nantinya akan diberikan. 
 
