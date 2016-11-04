@@ -1,0 +1,79 @@
+body {
+    background: url("background.jpg") no-repeat center fixed;
+	background-size: 100%;
+	margin:0;
+	padding:0;
+}
+
+.header{
+	font-family: Arial;
+	text-align: center;
+	text-transform: uppercase;
+	color: rgb(220, 18, 59);
+	background-color: rgb(255, 255, 0);
+	border: 7px dashed black;
+	box-sizing: border-box;
+	padding: 20px;
+	
+}
+
+.header h1{
+	letter-spacing: 5px;
+}
+
+.header h2{
+	font-style: italic;
+}
+
+img{
+	border: 2px solid black;
+	border-radius: 100%;
+	width: 240px;
+	display: block;
+    margin: auto;
+}
+
+.body{
+	background-color: white;
+	font-family: Serif;
+	border: 2px solid black;
+	margin: 50px;
+	padding: 50px;
+	box-sizing: border-box;
+}
+
+.body p{
+	font-weight: bold;
+}
+
+.body table, th, td {
+    border: 1px solid black;
+}
+
+.body th{
+	font-weight: bold;
+}
+
+.body td#span{
+	font-size: 24px;
+	color: rgb(175, 35, 40);
+	font-weight: bold;
+	text-align: center;
+}
+
+.comment{
+	color: rgb(186, 40, 23);
+	background-color: rgb(250, 235, 215);
+	background: -webkit-linear-gradient(rgb(255, 255, 0), rgb(175, 255, 45));
+	font-family: Courier;
+	border-radius: 50px 0 0 50px;
+	padding: 40px;
+	float: right;
+	border-left: 6px solid black;
+	box-sizing: border-box;
+	
+}
+.comment h2{
+	text-align: center;
+	text-transform:capitalize;
+}
